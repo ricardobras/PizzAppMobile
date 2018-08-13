@@ -1,0 +1,336 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.facebook.android:account-kit-sdk:4.35.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/5188e593e4af2623235e2ac310d1ed2d/AndroidManifest.xml:21:1-55:12
+MERGED from [:CordovaLib] /projects/PizzApp/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:1-27:12
+MERGED from [com.android.support:design:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/b063c9397780645a9b29794bc76335a9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/826cf1035bc4429f50cf714db718d196/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/a5ebf00c4fb89bf9cbbcd65c5d3d02b9/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/8dd9172652428b523b22772f04169e34/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.8.0.aar/cc622af878362eb06c9e3c6537092739/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.8.0.aar/b0979266f2cdea9c02342530daa5cba4/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/03caf1a40cb0288f7a4d1dbcd86bc745/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/80d9c146bbf06962164669a95f5953ce/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/8291d1fbd8dd5d52103cf6f9c4132fea/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/a2066b1395aaf47f4622f20bf5497f48/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/a034915800f6ec4a3e61b9a6030a68b2/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/d1babd7a50d751a3f5dadad058bdab41/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/c6dff2afa9d94e459f1de53d6b51909f/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-fragment:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/57ece69cdcce255c0562eb4a0bf4b2a2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/bb787eddef4645c3240404d6e7ebafd0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/01308713ccc6a2ab9a586d7e3228c5fc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/a2b061d80de32036130f1ca1920fb1ba/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/a15edb9c7c4ea594e3c729bd6c9c3e23/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.8.0.aar/35584a28677a06c9818113c38451e098/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/a3499fefd257e2aef7d597afb90cfd7a/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/212fb8c8da34299fb79dd52f37ba899e/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/3d8764a7e9caa506597894a643e2a253/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/6b7210856adfabc90df73c897bef1f2f/AndroidManifest.xml:2:1-6:12
+INJECTED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:2:98-124
+		INJECTED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:2:70-97
+		INJECTED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:2:125-183
+	android:versionCode
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:2:46-69
+		INJECTED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:3:23-48
+uses-permission#android.permission.INTERNET
+ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from [com.facebook.android:account-kit-sdk:4.35.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/5188e593e4af2623235e2ac310d1ed2d/AndroidManifest.xml:28:5-53:19
+MERGED from [com.facebook.android:account-kit-sdk:4.35.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/5188e593e4af2623235e2ac310d1ed2d/AndroidManifest.xml:28:5-53:19
+MERGED from [com.android.support:design:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/b063c9397780645a9b29794bc76335a9/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/b063c9397780645a9b29794bc76335a9/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/826cf1035bc4429f50cf714db718d196/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/826cf1035bc4429f50cf714db718d196/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/a5ebf00c4fb89bf9cbbcd65c5d3d02b9/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/a5ebf00c4fb89bf9cbbcd65c5d3d02b9/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/8dd9172652428b523b22772f04169e34/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/8dd9172652428b523b22772f04169e34/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/03caf1a40cb0288f7a4d1dbcd86bc745/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/03caf1a40cb0288f7a4d1dbcd86bc745/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/80d9c146bbf06962164669a95f5953ce/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/80d9c146bbf06962164669a95f5953ce/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/8291d1fbd8dd5d52103cf6f9c4132fea/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/8291d1fbd8dd5d52103cf6f9c4132fea/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/a2066b1395aaf47f4622f20bf5497f48/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/a2066b1395aaf47f4622f20bf5497f48/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/a034915800f6ec4a3e61b9a6030a68b2/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/a034915800f6ec4a3e61b9a6030a68b2/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/d1babd7a50d751a3f5dadad058bdab41/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/d1babd7a50d751a3f5dadad058bdab41/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/57ece69cdcce255c0562eb4a0bf4b2a2/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/57ece69cdcce255c0562eb4a0bf4b2a2/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/bb787eddef4645c3240404d6e7ebafd0/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/bb787eddef4645c3240404d6e7ebafd0/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/01308713ccc6a2ab9a586d7e3228c5fc/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/01308713ccc6a2ab9a586d7e3228c5fc/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/a2b061d80de32036130f1ca1920fb1ba/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/a2b061d80de32036130f1ca1920fb1ba/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/a15edb9c7c4ea594e3c729bd6c9c3e23/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/a15edb9c7c4ea594e3c729bd6c9c3e23/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.8.0.aar/35584a28677a06c9818113c38451e098/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.8.0.aar/35584a28677a06c9818113c38451e098/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/a3499fefd257e2aef7d597afb90cfd7a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/a3499fefd257e2aef7d597afb90cfd7a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/212fb8c8da34299fb79dd52f37ba899e/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/212fb8c8da34299fb79dd52f37ba899e/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/3d8764a7e9caa506597894a643e2a253/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/3d8764a7e9caa506597894a643e2a253/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/6b7210856adfabc90df73c897bef1f2f/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/6b7210856adfabc90df73c897bef1f2f/AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:5:114-140
+	android:label
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:5:81-113
+	android:hardwareAccelerated
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:5:18-52
+	android:icon
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:5:53-80
+activity#io.ionic.starter.MainActivity
+ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:6:9-11:20
+	android:label
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:6:97-134
+	android:launchMode
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:6:135-165
+	android:windowSoftInputMode
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:6:257-299
+	android:configChanges
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:6:19-96
+	android:theme
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:6:194-256
+	android:name
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:6:166-193
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:7:13-10:29
+	android:label
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:7:28-65
+action#android.intent.action.MAIN
+ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:9:27-74
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:12:9-102
+	android:value
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:12:66-99
+	android:name
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:12:20-65
+meta-data#com.facebook.accountkit.ApplicationName
+ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:13:9-113
+	android:value
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:13:75-110
+	android:name
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:13:20-74
+meta-data#com.facebook.accountkit.ClientToken
+ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:14:9-114
+	android:value
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:14:71-111
+	android:name
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:14:20-70
+meta-data#com.facebook.accountkit.FacebookAppEventsEnabled
+ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:15:9-108
+	android:value
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:15:84-105
+	android:name
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:15:20-83
+activity#com.facebook.accountkit.ui.AccountKitActivity
+ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:16:9-23:20
+MERGED from [com.facebook.android:account-kit-sdk:4.35.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/5188e593e4af2623235e2ac310d1ed2d/AndroidManifest.xml:29:9-34:58
+MERGED from [com.facebook.android:account-kit-sdk:4.35.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/5188e593e4af2623235e2ac310d1ed2d/AndroidManifest.xml:29:9-34:58
+	android:label
+		ADDED from [com.facebook.android:account-kit-sdk:4.35.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/5188e593e4af2623235e2ac310d1ed2d/AndroidManifest.xml:31:13-65
+	android:launchMode
+		ADDED from [com.facebook.android:account-kit-sdk:4.35.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/5188e593e4af2623235e2ac310d1ed2d/AndroidManifest.xml:32:13-43
+	android:windowSoftInputMode
+		ADDED from [com.facebook.android:account-kit-sdk:4.35.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/5188e593e4af2623235e2ac310d1ed2d/AndroidManifest.xml:34:13-55
+	android:theme
+		ADDED from [com.facebook.android:account-kit-sdk:4.35.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/5188e593e4af2623235e2ac310d1ed2d/AndroidManifest.xml:33:13-52
+	android:name
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:16:19-79
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:17:13-22:29
+action#android.intent.action.VIEW
+ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.DEFAULT
+ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:19:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:20:17-78
+	android:name
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:20:27-75
+data
+ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:21:17-61
+	android:scheme
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:21:23-58
+uses-sdk
+ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:25:5-74
+MERGED from [com.facebook.android:account-kit-sdk:4.35.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/5188e593e4af2623235e2ac310d1ed2d/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:account-kit-sdk:4.35.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/5188e593e4af2623235e2ac310d1ed2d/AndroidManifest.xml:24:5-26:41
+MERGED from [:CordovaLib] /projects/PizzApp/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] /projects/PizzApp/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [com.android.support:design:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/b063c9397780645a9b29794bc76335a9/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/b063c9397780645a9b29794bc76335a9/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/826cf1035bc4429f50cf714db718d196/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/826cf1035bc4429f50cf714db718d196/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/a5ebf00c4fb89bf9cbbcd65c5d3d02b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/a5ebf00c4fb89bf9cbbcd65c5d3d02b9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/8dd9172652428b523b22772f04169e34/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/8dd9172652428b523b22772f04169e34/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.8.0.aar/cc622af878362eb06c9e3c6537092739/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.8.0.aar/cc622af878362eb06c9e3c6537092739/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.8.0.aar/b0979266f2cdea9c02342530daa5cba4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.8.0.aar/b0979266f2cdea9c02342530daa5cba4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/03caf1a40cb0288f7a4d1dbcd86bc745/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/03caf1a40cb0288f7a4d1dbcd86bc745/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/80d9c146bbf06962164669a95f5953ce/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/80d9c146bbf06962164669a95f5953ce/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/8291d1fbd8dd5d52103cf6f9c4132fea/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/8291d1fbd8dd5d52103cf6f9c4132fea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/a2066b1395aaf47f4622f20bf5497f48/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/a2066b1395aaf47f4622f20bf5497f48/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/a034915800f6ec4a3e61b9a6030a68b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/a034915800f6ec4a3e61b9a6030a68b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/d1babd7a50d751a3f5dadad058bdab41/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/d1babd7a50d751a3f5dadad058bdab41/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/c6dff2afa9d94e459f1de53d6b51909f/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/c6dff2afa9d94e459f1de53d6b51909f/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/57ece69cdcce255c0562eb4a0bf4b2a2/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/57ece69cdcce255c0562eb4a0bf4b2a2/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/bb787eddef4645c3240404d6e7ebafd0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/bb787eddef4645c3240404d6e7ebafd0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/01308713ccc6a2ab9a586d7e3228c5fc/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/01308713ccc6a2ab9a586d7e3228c5fc/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/a2b061d80de32036130f1ca1920fb1ba/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/a2b061d80de32036130f1ca1920fb1ba/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/a15edb9c7c4ea594e3c729bd6c9c3e23/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/a15edb9c7c4ea594e3c729bd6c9c3e23/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.8.0.aar/35584a28677a06c9818113c38451e098/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.8.0.aar/35584a28677a06c9818113c38451e098/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/a3499fefd257e2aef7d597afb90cfd7a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/a3499fefd257e2aef7d597afb90cfd7a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/212fb8c8da34299fb79dd52f37ba899e/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/212fb8c8da34299fb79dd52f37ba899e/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/3d8764a7e9caa506597894a643e2a253/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/3d8764a7e9caa506597894a643e2a253/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/6b7210856adfabc90df73c897bef1f2f/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/6b7210856adfabc90df73c897bef1f2f/AndroidManifest.xml:4:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/b063c9397780645a9b29794bc76335a9/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:25:42-71
+	android:minSdkVersion
+		ADDED from /projects/PizzApp/platforms/android/app/src/main/AndroidManifest.xml:25:15-41
+activity#com.facebook.accountkit.ui.AccountKitEmailRedirectActivity
+ADDED from [com.facebook.android:account-kit-sdk:4.35.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/5188e593e4af2623235e2ac310d1ed2d/AndroidManifest.xml:35:9-38:40
+	android:noHistory
+		ADDED from [com.facebook.android:account-kit-sdk:4.35.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/5188e593e4af2623235e2ac310d1ed2d/AndroidManifest.xml:38:13-37
+	android:exported
+		ADDED from [com.facebook.android:account-kit-sdk:4.35.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/5188e593e4af2623235e2ac310d1ed2d/AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from [com.facebook.android:account-kit-sdk:4.35.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/5188e593e4af2623235e2ac310d1ed2d/AndroidManifest.xml:36:13-86
+provider#com.facebook.accountkit.internal.AccountKitInitProvider
+ADDED from [com.facebook.android:account-kit-sdk:4.35.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/5188e593e4af2623235e2ac310d1ed2d/AndroidManifest.xml:49:9-52:40
+	android:authorities
+		ADDED from [com.facebook.android:account-kit-sdk:4.35.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/5188e593e4af2623235e2ac310d1ed2d/AndroidManifest.xml:51:13-76
+	android:exported
+		ADDED from [com.facebook.android:account-kit-sdk:4.35.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/5188e593e4af2623235e2ac310d1ed2d/AndroidManifest.xml:52:13-37
+	android:name
+		ADDED from [com.facebook.android:account-kit-sdk:4.35.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/5188e593e4af2623235e2ac310d1ed2d/AndroidManifest.xml:50:13-83
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/b063c9397780645a9b29794bc76335a9/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/826cf1035bc4429f50cf714db718d196/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/826cf1035bc4429f50cf714db718d196/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/a5ebf00c4fb89bf9cbbcd65c5d3d02b9/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/a5ebf00c4fb89bf9cbbcd65c5d3d02b9/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/a2066b1395aaf47f4622f20bf5497f48/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/a2066b1395aaf47f4622f20bf5497f48/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/a034915800f6ec4a3e61b9a6030a68b2/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/a034915800f6ec4a3e61b9a6030a68b2/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/d1babd7a50d751a3f5dadad058bdab41/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/d1babd7a50d751a3f5dadad058bdab41/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/c6dff2afa9d94e459f1de53d6b51909f/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/c6dff2afa9d94e459f1de53d6b51909f/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/57ece69cdcce255c0562eb4a0bf4b2a2/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/57ece69cdcce255c0562eb4a0bf4b2a2/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/bb787eddef4645c3240404d6e7ebafd0/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/bb787eddef4645c3240404d6e7ebafd0/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/01308713ccc6a2ab9a586d7e3228c5fc/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/01308713ccc6a2ab9a586d7e3228c5fc/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/a2b061d80de32036130f1ca1920fb1ba/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/a2b061d80de32036130f1ca1920fb1ba/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/a15edb9c7c4ea594e3c729bd6c9c3e23/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/a15edb9c7c4ea594e3c729bd6c9c3e23/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/b063c9397780645a9b29794bc76335a9/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/b063c9397780645a9b29794bc76335a9/AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/8dd9172652428b523b22772f04169e34/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/8dd9172652428b523b22772f04169e34/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/8dd9172652428b523b22772f04169e34/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/8dd9172652428b523b22772f04169e34/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/8dd9172652428b523b22772f04169e34/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/8dd9172652428b523b22772f04169e34/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/8dd9172652428b523b22772f04169e34/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/8dd9172652428b523b22772f04169e34/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/8dd9172652428b523b22772f04169e34/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/03caf1a40cb0288f7a4d1dbcd86bc745/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/03caf1a40cb0288f7a4d1dbcd86bc745/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/03caf1a40cb0288f7a4d1dbcd86bc745/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/03caf1a40cb0288f7a4d1dbcd86bc745/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/8291d1fbd8dd5d52103cf6f9c4132fea/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/8291d1fbd8dd5d52103cf6f9c4132fea/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /home/cop-t-inf4/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/8291d1fbd8dd5d52103cf6f9c4132fea/AndroidManifest.xml:24:13-58

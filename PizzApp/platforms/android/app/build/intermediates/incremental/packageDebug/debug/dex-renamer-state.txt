@@ -1,0 +1,4 @@
+#Sat Aug 04 10:48:49 BRT 2018
+base.0=/projects/PizzApp/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/projects/PizzApp/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex

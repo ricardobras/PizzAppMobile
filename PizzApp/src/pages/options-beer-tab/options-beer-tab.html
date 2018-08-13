@@ -1,0 +1,42 @@
+<!-- FUTURAMENTE
+DEVERÁ TER A OPÇÃO DE CONVIDAR SEUS AMIGOS VIA WHATSAPP, ONDE SERÁ ENVIADO
+UM LINK PARA ABRIR O APP, E ENTRAR NO GRUPO DE PIZZA DE AMIGOS, CONFIRMANDO SUA
+PRESENÇA E COM BASE NA QUANTIDADE DE PESSOAS, O APP SUGERIR A QUANTIDADE
+A SER COMPRADA! -->
+
+<ion-header text-center color="danger" >
+  <ion-navbar color="danger">
+
+    <ion-buttons start>
+    <img src="assets/imgs/logo.png" style="width:32px" item-start>
+    </ion-buttons>
+
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+
+    <ion-searchbar placeholder="Buscar" [(ngModel)]="terms" [showCancelButton]="shouldShowCancel" item-start small></ion-searchbar>
+
+  </ion-navbar>
+</ion-header>
+
+  <ion-content class="main card-background-page" id="mycontent" >
+     <ion-refresher (ionRefresh)="doRefresh($event)" color="light" >
+       <ion-refresher-content pullingIcon="arrow-dropdown"
+      pullingText="Atualizar"
+      refreshingSpinner="dots"
+      refreshingText="Atualizando..."></ion-refresher-content>
+     </ion-refresher>
+
+    <ion-card *ngFor="let menu of menus | search: terms |  sort: {property: column, order: order}"  (click)="presentModal({itemMenu: menu})">
+
+        <img src="{{restProvider.urlServer}}/{{menu.image.path}}"  />
+
+        <div class="card-title"> {{menu.name}} </div>
+
+      <ion-item text-center color='yellowgold'>
+        <b>R$ 50,00</b>
+      </ion-item>
+     </ion-card>
+
+</ion-content>

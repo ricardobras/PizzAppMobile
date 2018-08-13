@@ -1,0 +1,7 @@
+{
+  "name": "PizzApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

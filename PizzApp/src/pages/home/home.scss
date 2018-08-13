@@ -1,0 +1,38 @@
+
+page-home{
+
+
+
+    .margin-center{
+      margin:auto;
+    display: block;
+  }
+
+
+    .button-facebook {
+      text-transform: capitalize;
+      color: blue;
+    }
+    .button-google {
+      text-transform: capitalize;
+      color: red;
+    }
+    ion-item{
+        background: color($colors,danger);
+    }
+
+
+}
+$colors: (
+  primary:    #488aff,
+  secondary:  #32db64,
+  danger:     #f53d3d,
+  light:      #f4f4f4,
+  dark:       #222,
+  yellowgold:  #FFD700,
+  yellow:   #FFFF00,
+  twitter: (
+    base: #55acee,
+    contrast: #ffffff
+  )
+);
